@@ -15,6 +15,8 @@ In today's data-driven landscape, creating a reliable and efficient pipeline for
 
 # Repository Structure
 
-**Load_Table.hql:** this script is contaning the code of creating tables and droping tables in Hive along with Upsert Logic.
+**Load_Table.hql:** This script is contaning the code of creating tables and droping tables in Hive along with Upsert Logic.
+
+**driving_script:** In this script we have used Sqoop to take data from MySQL to HDFS and then we Inserted this data in Apache Hive for processing and at the end we used Bulk Load query for inserting data in HBase. 
 
 
