@@ -17,5 +17,8 @@ In today's data-driven landscape, creating a reliable and efficient pipeline for
 
 **Load_Table.hql:** This script contains the code for creating tables and dropping tables in Hive along with Upsert Logic.
 
-**driving_script:** This is the final script which contains Sqoop queries along with Bulk Load Command for HBase.  
+**driving_script:** This is the final script which contains Sqoop queries along with Bulk Load Command for HBase. 
+
+# Conclusion
+Our project seamlessly combines the power of Sqoop, Hive, Apache HDFS, HBase, and more to create a practical data integration and processing pipeline. By moving, transforming, and storing data effectively, we enable data-driven decisions and insights.
 
