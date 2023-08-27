@@ -13,4 +13,8 @@ In today's data-driven landscape, creating a reliable and efficient pipeline for
 
 **Insertion into HBase with Bulk Load:** Our final destination is HBase. The processed data is inserted here using bulk loading, which is efficient for large-scale data storage and retrieval.
 
+# Repository Structure
+
+**Load_Table.hql:** this script is contaning the code of creating table in Hive along with Upsert Logic.
+
 
