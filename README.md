@@ -15,6 +15,6 @@ In today's data-driven landscape, creating a reliable and efficient pipeline for
 
 # Repository Structure
 
-**Load_Table.hql:** this script is contaning the code of creating table in Hive along with Upsert Logic.
+**Load_Table.hql:** this script is contaning the code of creating tables and droping tables in Hive along with Upsert Logic.
 
 
